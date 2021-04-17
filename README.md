@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 👔 [linkedin][instagram] **|** 
 🗃️ [Gmail] ohida2001@gmail.com
 
-[![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Abdullah-ohida)](https://github.com/Abdullah-ohida/github-readme-stats)
+[![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Whalewalker)](https://github.com/Whalewalker/github-readme-stats)
 
 
 [twitter]: https://twitter.com/Whale_walker
