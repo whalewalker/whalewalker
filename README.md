@@ -15,8 +15,7 @@ You can click the Preview link to take a look at your changes.
 👔 [linkedin][instagram] **|** 
 🗃️ [Gmail] ohida2001@gmail.com
 
-<!-- [![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Whalewalker)](https://github.com/Whalewalker/github-readme-stats) -->
-[![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Whalewalker&show_icons=true&theme=radical)
+![Abdullah's github stats](https://github-readme-stats.vercel.app/api?username=Whalewalker&show_icons=true&theme=radical)
 
 
 [twitter]: https://twitter.com/Whale_walker
